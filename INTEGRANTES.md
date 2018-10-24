@@ -1,5 +1,5 @@
 # Grupo1_LogicaDigital
 
-Edixon Alirio Salas
-Camilo Gutierrez
+Edixon Alirio Salas/
+Camilo Gutierrez/
 Mateo Orozco Arevalo
